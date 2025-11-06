@@ -1,9 +1,9 @@
 
 <div>
-  <img src="glass-darkly/1cor-1.jpg" width="45%" height="800px">
-  <img src="glass-darkly/1cor-2.jpg" width="45%" height="800px">
-  <img src="glass-darkly/1-cor-3.jpg" width="45%" height="800px">
-  <img src="glass-darkly/1-cor-4.jpg" width="45%" height="800px">
+  <img src="glass-darkly/1cor-1.jpg" width="45%" height="9500px">
+  <img src="glass-darkly/1cor-2.jpg" width="45%" height="950px">
+  <img src="glass-darkly/1-cor-3.jpg" width="45%" height="950px">
+  <img src="glass-darkly/1-cor-4.jpg" width="45%" height="950px">
 </div>
 
 # D
@@ -141,7 +141,14 @@ Adults are pessimistic
    tweyibuka dushimira izina ryawe…
 
 **YouTube Link:**  
-https://www.youtube.com/watch?v=S7SsuV8ZOs&list=RDS7SsuV8ZOs&start_radio=1
+
+<div>
+  <iframe
+    src="https://www.youtube.com/embed/S7SsuV8ZOs" width="49%" height="500px"
+    >
+  </iframe>
+</div>
+
 
 -----
 
