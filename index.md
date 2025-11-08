@@ -1,9 +1,9 @@
 
 <div>
-  <img src="glass-darkly/1cor-1.jpg" width="45%" height="300px">
-  <img src="glass-darkly/1cor-2.jpg" width="45%" height="300px">
-  <img src="glass-darkly/1-cor-3.jpg" width="45%" height="300px">
-  <img src="glass-darkly/1-cor-4.jpg" width="45%" height="300px">
+  <img src="glass-darkly/1cor-1.jpg" width="35%" height="300px">
+  <img src="glass-darkly/1cor-2.jpg" width="35%" height="300px">
+  <img src="glass-darkly/1-cor-3.jpg" width="35%" height="300px">
+  <img src="glass-darkly/1-cor-4.jpg" width="35%" height="300px">
 </div>
 
 # D
